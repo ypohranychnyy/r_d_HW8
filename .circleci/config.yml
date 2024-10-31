@@ -1,0 +1,29 @@
+version: 2.1
+
+executors:
+  node-executor:
+    docker:
+      - image: cypress/browsers:node16.13.2-chrome99-ff97
+
+jobs:
+  cypress-job:
+    executor: node-executor
+    steps:
+      - checkout
+      - run:
+          name: Set Up Node and Cypress Environment
+          command: |
+            npm install
+            npx cypress verify
+      - run:
+          name: Run Cypress Tests with Allure Reporting
+          command: |
+            npx cypress run --env allure=true
+      - store_artifacts:
+          path: cypress/reports/
+          destination: allure-reports
+
+workflows:
+  build-and-test:
+    jobs:
+      - cypress-job
