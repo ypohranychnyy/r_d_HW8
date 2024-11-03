@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab5626b-e7a9-4e2c-a61c-c61acd7bd840" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/1-getting-started/todo.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/actions.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/aliasing.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/assertions.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/connectors.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/cookies.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/cypress_api.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/files.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/location.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/misc.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/navigation.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/network_requests.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/querying.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/spies_stubs_clocks.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/storage.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/traversal.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/utilities.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/viewport.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/waiting.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/window.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/crud_lists.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/integration/crud_lists.spec.cy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <list id="833c0227-dcb3-4137-8c4b-19da0a6b3662" name="Changes by biercoff" comment="">
+      <change beforePath="$PROJECT_DIR$/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/e2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/e2e.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +43,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ypohranychnyy"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ypohranychnyy&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ypohranychnyy/r_d_HW8.git",
-    "accountId": "8f958ebf-1f26-40cd-b53e-f873d034ca21"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ypohranychnyy/r_d_HW8.git&quot;,
+    &quot;accountId&quot;: &quot;8f958ebf-1f26-40cd-b53e-f873d034ca21&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -37,16 +65,106 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cypress.all tests in crud_lists.spec.cy.ts.executor": "Run",
+    "Cypress.all tests in crud_lists.spec.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/a/Documents/R_D_API_testing/AquaProjects/RD_HW8",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/a/Applications/Aqua.app/Contents/plugins/javascript-base/jsLanguageServicesImpl/external"
+    "npm.cypress:open.executor": "Run",
+    "npm.cypress:run.executor": "Debug",
+    "npm.test.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/a/Documents/R_D_API_testing/AquaProjects/RD_HW8/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress/e2e" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="all tests in crud_lists.spec.cy.ts" type="JavaScriptTestRunnerCypress" temporary="true">
+      <node-interpreter value="project" />
+      <cypress-package value="$PROJECT_DIR$/node_modules/cypress" />
+      <working-dir value="$PROJECT_DIR$" />
+      <cypress-options value="-q" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/cypress/e2e/integration/crud_lists.spec.cy.ts" />
+      <test-names>
+        <test-name value="ClickUp CRUD Tests for Lists" />
+        <test-name value="should create a list" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="all tests in crud_lists.spec.ts" type="JavaScriptTestRunnerCypress" temporary="true">
+      <node-interpreter value="project" />
+      <cypress-package value="$PROJECT_DIR$/node_modules/cypress" />
+      <working-dir value="$PROJECT_DIR$" />
+      <cypress-options value="-q" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/cypress/e2e/integration/crud_lists.spec.ts" />
+      <test-names>
+        <test-name value="ClickUp CRUD Tests for Lists" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="cypress:open" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cypress:open" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="cypress:run" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cypress:run" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.cypress:open" />
+        <item itemvalue="Cypress.all tests in crud_lists.spec.cy.ts" />
+        <item itemvalue="npm.cypress:run" />
+        <item itemvalue="Cypress.all tests in crud_lists.spec.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,10 +173,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729112709764</updated>
+      <workItem from="1730633776384" duration="11043000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

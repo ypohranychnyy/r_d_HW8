@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "es6",
+    "lib": ["es6", "dom"],
+    "types": ["cypress", "node", "@shelex/cypress-allure-plugin"],
+    "noEmit": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "isolatedModules": true
+  },
+  "include": [
+    "cypress/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

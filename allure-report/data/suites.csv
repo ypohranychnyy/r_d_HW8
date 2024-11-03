@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"The test checks if an active user with a valid password can sign in to the app.","640","should create a list","ClickUp CRUD Tests for Lists","Sun Nov 03 17:06:21 EET 2024","passed","Sun Nov 03 17:06:22 EET 2024","","","",""
+"","957","should update the list","ClickUp CRUD Tests for Lists","Sun Nov 03 17:43:22 EET 2024","passed","Sun Nov 03 17:43:23 EET 2024","","","",""
+"","761","should get the list","ClickUp CRUD Tests for Lists","Sun Nov 03 17:43:21 EET 2024","passed","Sun Nov 03 17:43:22 EET 2024","","","",""
+"","1004","should create a list","ClickUp CRUD Tests for Lists","Sun Nov 03 17:43:20 EET 2024","passed","Sun Nov 03 17:43:21 EET 2024","","","",""
+"","545","should delete the list","ClickUp CRUD Tests for Lists","Sun Nov 03 17:43:23 EET 2024","passed","Sun Nov 03 17:43:24 EET 2024","","","",""
