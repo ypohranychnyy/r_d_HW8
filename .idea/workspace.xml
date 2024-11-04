@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab5626b-e7a9-4e2c-a61c-c61acd7bd840" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/1-getting-started/todo.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/actions.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/aliasing.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/assertions.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/connectors.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/cookies.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/cypress_api.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/files.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/location.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/misc.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/navigation.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/network_requests.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/querying.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/spies_stubs_clocks.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/storage.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/traversal.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/utilities.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/viewport.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/waiting.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/window.cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/crud_lists.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/integration/crud_lists.spec.cy.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
-    <list id="833c0227-dcb3-4137-8c4b-19da0a6b3662" name="Changes by biercoff" comment="">
-      <change beforePath="$PROJECT_DIR$/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/e2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/e2e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/integration/crud_lists.spec.cy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/integration/crud_lists.spec.cy.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729112709764</updated>
-      <workItem from="1730633776384" duration="11043000" />
+      <workItem from="1730633776384" duration="13371000" />
     </task>
     <servers />
   </component>
